@@ -1,0 +1,70 @@
+h1{
+text-align: center;
+text-rendering: inherit;
+
+  position: relative;
+  background-color:darksalmon;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: 2;
+  animation-direction: unset;
+  font-style: normal;
+}
+.class1{
+    text-align: justify;
+    text-decoration: black;
+    
+}
+.class2{
+    text-align: justify;
+    text-decoration: black;
+}
+.button1 {font-size: 30px; background-color: lightgoldenrodyellow;}
+.button2 {font-size: 30px; background-color: burlywood;} 
+.button3 {font-size: 30px; background-color: lightsalmon;}
+.button4 {font-size: 30px; background-color:chocolate ;}
+.button5 {font-size: 30px;background-color: brown;}
+.button6 {font-size: 30px;background-color: darkred;}
+h3{
+  text-align: justify;
+  font-family: fantasy;
+  font-style: normal;
+  font-size:xx-large;
+}
+p::first-letter {
+  font-size: 300%;
+  color: palevioletred;
+}
+.step{
+  text-align: center;
+  font-size: large;
+  
+}
+h2{
+  cursor: -moz-zoom-in;
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+  text-align: center;
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  
+  
+  font-size: 30px;
+}
+.footer2{
+  text-align: center;
+}
+.footer1{
+  background-color: maroon
+  text-decoration  darkgoldenrod;
+  text-align: center;
+
+}
+button{
+  background-color: sienna;
+  text-shadow: seashell;
+}
